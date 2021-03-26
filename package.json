@@ -1,0 +1,19 @@
+{
+  "name": "mearnbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "nourchen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
